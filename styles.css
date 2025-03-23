@@ -112,11 +112,11 @@ header {
     margin-top: 0;
     display: block;
     padding: 0;
-    height: 50vh;
+    height: 45vh;
     }
 
     .container-right {
-        height: auto;
+        height: 55vh;
         width: 100%;
         display: block;
         position: static;
