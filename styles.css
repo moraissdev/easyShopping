@@ -112,7 +112,7 @@ header {
     margin-top: 0;
     display: block;
     padding: 0;
-    height: 40vh;
+    height: 35vh;
     }
 
     .container-right {
@@ -140,7 +140,7 @@ header {
         font-size: 36px;
         font-weight: 400;
         width: auto;
-        margin: 35px 50px 0px;
+        margin: 30px 50px 0px;
         text-align: center;
     }
 
