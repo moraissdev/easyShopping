@@ -112,11 +112,11 @@ header {
     margin: 0;
     display: block;
     padding: 40px 0px 0px;
-    height: 50%;
+    height: 40%;
     }
 
     .container-right {
-        height: 50%;
+        height: 58%;
         width: 100%;
         display: block;
         position: static;
@@ -128,7 +128,7 @@ header {
         max-width: 90%;
         display: block;
         margin: auto;
-        height: 360px;
+        height: 340px;
     }
 
     header {
