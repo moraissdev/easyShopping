@@ -112,11 +112,11 @@ header {
     margin: 0;
     display: block;
     padding: 25px 0px 0px;
-    height: 42%;
+    height: 50%;
     }
 
     .container-right {
-        height: 58%;
+        height: 50%;
         width: 100%;
         display: block;
         position: static;
