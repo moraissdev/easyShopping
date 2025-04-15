@@ -108,7 +108,7 @@ header {
 
 @media screen and (max-width: 900px) {
     .container-left {
-    width: 100%;
+    width: auto;
     margin: 0;
     display: block;
     padding: 25px 0px 0px;
@@ -117,7 +117,7 @@ header {
 
     .container-right {
         height: auto;
-        width: 100%;
+        width: auto;
         display: block;
         position: static;
         padding: 0px;
