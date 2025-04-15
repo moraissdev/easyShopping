@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://camo.githubusercontent.com/a567814877ddbefb369961a0a53c31b07b8057dc8f4b98aa8c0f9c6eec07fec5/68747470733a2f2f692e696d6775722e636f6d2f476a5a3039527a2e706e67"  />
+  <img height="400" src="https://i.imgur.com/jPKpZzj.png"  />
 </div>
 
 ###
@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <img height="425" src="https://i.imgur.com/jZ3P6me.png"  />
+  <img height="425" src="https://i.imgur.com/VDhdKYk.png"  />
 </div>
 
 ###
