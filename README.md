@@ -29,7 +29,7 @@
 ###
 
 <div align="left">
-  <img height="425" src="https://i.imgur.com/VDhdKYk.png"  />
+  <img height="425" src="https://i.imgur.com/GY7TM8v.png"  />
 </div>
 
 ###
