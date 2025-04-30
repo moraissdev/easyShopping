@@ -1,4 +1,4 @@
-<h1 align="center">Compras pelo Celular 📱</h1>
+<h1 align="center">Compras via Celular 📱</h1>
 
 ###
 
