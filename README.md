@@ -1,4 +1,4 @@
-<h1 align="center">Compras via Celular 📱</h1>
+<h1 align="center">Compras Via Celular 📱</h1>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://i.imgur.com/jPKpZzj.png"  />
+  <img height="400" src="https://i.imgur.com/ImYCQxt.png"  />
 </div>
 
 ###
